@@ -2,6 +2,8 @@ main:
   - title: "Members"
     url: /members/
   - title: "Events"
-    url: /tags/
+    url: /events/
+  - title: "Calendar"
+    url: /calendar/
   - title: "About"
     url: /about/

@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Events"
+permalink: /events/
 layout: tags
 author_profile: true
 ---

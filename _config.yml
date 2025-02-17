@@ -34,6 +34,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+powered_by: false
+future: true
 include:
   - _pages
 
@@ -65,8 +67,8 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://benfieldbrass.com"
-    - label: "Twitter"
+      url: "http://benfieldbrass.github.io/ "
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/p/Benfield-Brass-Band-100055208095368/"
     - label: "Instagram"
@@ -77,8 +79,8 @@ footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://benfieldbrass.com"
-    - label: "Twitter"
+      url: "http://benfieldbrass.github.io/"
+    - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/p/Benfield-Brass-Band-100055208095368/"
     - label: "Instagram"
