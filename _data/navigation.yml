@@ -5,5 +5,7 @@ main:
     url: /events/
   - title: "Calendar"
     url: /calendar/
+  - title: "Videos"
+    url: /videos/
   - title: "About"
     url: /about/

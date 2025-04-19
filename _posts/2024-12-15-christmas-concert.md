@@ -6,5 +6,3 @@ categories:
 tags:
   - Christmas
 ---
-
-Test event

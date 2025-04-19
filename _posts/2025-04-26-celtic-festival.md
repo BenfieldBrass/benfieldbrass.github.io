@@ -8,3 +8,6 @@ tags:
 ---
 
 Celtic Festival
+The band will perform at 11:00 AM and 1:00 PM at Section 8 on the map
+
+![CelticFest](/assets/images/celticfest.jpg)

@@ -70,9 +70,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/p/Benfield-Brass-Band-100055208095368/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
@@ -82,9 +79,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/p/Benfield-Brass-Band-100055208095368/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -93,7 +87,6 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
